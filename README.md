@@ -1,6 +1,6 @@
-# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE:06-05-2024 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,15 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2024-01-03 at 11 11 34_63290519](https://github.com/thenmozhi05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140684207/6050af5b-dcce-464e-b4fd-a1e133019c7d)
-
+![image](https://github.com/Iswarya0580/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149989171/31e9fd54-a988-4cff-b645-8972a4820b65)
 
 ### Output:
-![WhatsApp Image 2024-01-03 at 11 06 17_2bbce1c9](https://github.com/thenmozhi05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140684207/68447c83-240d-4b5f-83f3-4014eb5f18b5)
-![WhatsApp Image 2024-01-03 at 11 06 09_c8ae0919](https://github.com/thenmozhi05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140684207/2a93f131-dd44-45ba-8daa-625af70d9a4a)
+![image](https://github.com/Iswarya0580/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149989171/1875c3fa-de65-4d2f-bd97-118508bd88f8)
 
-
-### Name: PRAVIN KUMAR A
+### Name:PRAVIN KUMAR A
 ### Register Number:212223230155
 
 ## RESULT:
